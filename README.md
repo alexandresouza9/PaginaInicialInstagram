@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, essa foi uma criação para o Bootcamp do Santander Bootcamp Fullstack Developer. 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Recriando a página inicial do Instagram, na aula de Flexbox!
 
 ### Os requisitos são:
 
